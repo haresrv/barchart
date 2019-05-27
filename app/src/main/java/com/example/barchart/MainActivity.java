@@ -119,7 +119,7 @@ TextView t;
             xAxis.setGranularityEnabled(true);
             barChart.setDragEnabled(true);
             barChart.setVisibleXRangeMaximum(3);
-
+            int xzx;
             float barspace=0.03f,groupspace=0.4f;
             data.setBarWidth(0.2f);
             barChart.getXAxis().setAxisMinimum(0);
